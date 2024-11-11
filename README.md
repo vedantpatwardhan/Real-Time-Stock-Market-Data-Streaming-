@@ -79,9 +79,16 @@ Use Amazon Athena to query stock data from the S3 bucket in real time.
 ### Technologies Used
 
 Apache Kafka: Distributed data streaming
+
 ZooKeeper: Service coordination for Kafka
+
 AWS EC2: Compute instance for Kafka
+
 AWS S3: Data storage
+
 AWS Glue: Data catalog and ETL
+
 Amazon Athena: Querying data stored in S3
+
 Python: Data processing (pandas)
+
